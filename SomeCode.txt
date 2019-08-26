@@ -1,0 +1,9 @@
+public class SomeCode
+{
+	private int value;
+
+	public SomeCode(int value)
+	{
+		this.value = value;
+	}
+}
