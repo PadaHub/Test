@@ -11,4 +11,9 @@ public class SomeCode
 	{
 		value++;
 	}
+
+	public void FearureTest()
+	{
+		value = 0;
+	}		
 }
