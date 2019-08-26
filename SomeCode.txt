@@ -6,4 +6,9 @@ public class SomeCode
 	{
 		this.value = value;
 	}
+
+	public void SomeModification(ref int value)
+	{
+		value++;
+	}
 }
